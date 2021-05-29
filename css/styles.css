@@ -1,0 +1,44 @@
+body {
+    font-family: 'Open Sans', sans-serif;     
+}
+
+h1, h2, h3 {
+    font-family: "Copperplate";
+}
+
+h2 {
+    color: black;
+}
+
+header h2 {
+    color: red;
+}
+
+footer {
+    background-image: linear-gradient(rgb(221, 143, 156), white);
+    padding: 40px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to left,rgb(221, 143, 156),white, white);
+    color: black;
+}
+
+.row-content {
+    padding: 20px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    color: black;
+}
+
+img {
+    padding: 30px;
+}
+
+#tBone {
+    width: 400px;
+}
